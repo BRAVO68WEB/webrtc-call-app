@@ -1,7 +1,7 @@
 {
-  "name": "learning-webrtc",
+  "name": "webrtc-call-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,5 +14,11 @@
   },
   "dependencies": {
     "firebase": "^9.21.0"
+  },
+  "license": "MIT",
+  "author": {
+    "email": "hi@b68.dev",
+    "name": "BRAVO68WEB",
+    "url": "https://b68.dev"
   }
 }
